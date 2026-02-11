@@ -1287,9 +1287,9 @@
 - thickness.
 
 **11.1.3** "Profile depth" is the distance between the...
-- ***leading edge and trailing edge of a profile***
+- leading edge and trailing edge of a profile
 - wing root and the wing tip.
-- profile's lower and upper edge at the thickest point.
+- ***profile's lower and upper edge at the thickest point.***
 - profile's lower and upper edge at the thinnest point.
 
 **11.1.4** The illustrated profile is a / an...
